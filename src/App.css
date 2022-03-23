@@ -6,6 +6,9 @@ a {
 }.App-header{
   text-align: center;
   margin-top: 2em;
+  font-size: 28px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #9670f4;
 }
 
 .App-footer{
